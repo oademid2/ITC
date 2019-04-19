@@ -157,6 +157,7 @@ def scatter():
 
     corpus = st.CorpusFromParsedDocuments(df, category_col='artist', parsed_col='parsed').build()
     term_freq_df = corpus.get_term_freq_df() #get term frequency
+    print(term_freq_df)
 
     term_freq_df['drake_precision'] = term_freq_df['drake freq'] * \
                                     1./(term_freq_df['drake freq'] + term_freq_df['migos freq'])

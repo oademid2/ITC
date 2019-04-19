@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72745f14-3fca-4cf5-9194-4ae139943747" name="Default Changelist" comment="" />
+    <list default="true" id="72745f14-3fca-4cf5-9194-4ae139943747" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LyricsPull.py" beforeDir="false" afterPath="$PROJECT_DIR$/LyricsPull.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScatterText.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScatterText.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScatterText.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="154" selection-start-line="154" selection-end-line="154" />
+            <state relative-caret-position="357">
+              <caret line="149" column="21" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
                 <element signature="e#666#824#0" />
@@ -53,13 +58,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LyricsPull.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
+            <state relative-caret-position="108">
+              <caret line="219" column="67" selection-start-line="219" selection-start-column="67" selection-end-line="219" selection-end-column="67" />
               <folding>
-                <element signature="e#1#20#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
                 <element signature="e#666#824#0" />
                 <element signature="e#1323#2068#0" />
                 <element signature="e#2127#3052#0" />
+                <element signature="e#3211#3571#0" />
+                <element signature="e#3924#4844#0" />
               </folding>
             </state>
           </provider>
@@ -83,6 +90,9 @@
       <find>noun</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -104,8 +114,8 @@
         <option value="$PROJECT_DIR$/ScatterTextTest.py" />
         <option value="$PROJECT_DIR$/LyricScraping.py" />
         <option value="$PROJECT_DIR$/ScatterText-Nouns.py" />
-        <option value="$PROJECT_DIR$/LyricsPull.py" />
         <option value="$PROJECT_DIR$/ScatterText.py" />
+        <option value="$PROJECT_DIR$/LyricsPull.py" />
       </list>
     </option>
   </component>
@@ -125,6 +135,7 @@
     <option name="width" value="1280" />
     <option name="height" value="703" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -169,7 +180,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ScatterText">
+  <component name="RunManager" selected="Python.LyricsPull">
+    <configuration name="LyricsPull" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ITC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LyricsPull.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="NVC" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ITC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,43 +308,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ITC" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.scratch" />
-      <item itemvalue="Python.scratch_1" />
       <item itemvalue="Python.ScatterTextTest" />
       <item itemvalue="Python.NVC" />
       <item itemvalue="Python.ScatterText-Nouns" />
       <item itemvalue="Python.ScatterText" />
+      <item itemvalue="Python.LyricsPull" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LyricsPull" />
         <item itemvalue="Python.ScatterText" />
         <item itemvalue="Python.ScatterText-Nouns" />
         <item itemvalue="Python.NVC" />
         <item itemvalue="Python.ScatterTextTest" />
-        <item itemvalue="Python.scratch_1" />
       </list>
     </recent_temporary>
   </component>
@@ -342,18 +352,18 @@
     <frame x="0" y="23" width="1280" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27323273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27323273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.19148937" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.19148937" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039715" side_tool="true" weight="0.31914893" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
@@ -470,8 +480,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScatterText.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        <state relative-caret-position="357">
+          <caret line="149" column="21" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
             <element signature="e#666#824#0" />
@@ -483,13 +493,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LyricsPull.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="108">
+          <caret line="219" column="67" selection-start-line="219" selection-start-column="67" selection-end-line="219" selection-end-column="67" />
           <folding>
-            <element signature="e#1#20#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="true" />
             <element signature="e#666#824#0" />
             <element signature="e#1323#2068#0" />
             <element signature="e#2127#3052#0" />
+            <element signature="e#3211#3571#0" />
+            <element signature="e#3924#4844#0" />
           </folding>
         </state>
       </provider>
